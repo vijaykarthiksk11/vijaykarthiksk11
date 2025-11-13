@@ -36,7 +36,15 @@ I enjoy solving complex problems through data-driven insights and developing end
 
 #### 🧰 Tools & Platforms
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sklearn,git,github,mysql,tableau,powerbi,streamlit,vscode" />
+<img src="https://skillicons.dev/icons?i=vscode,github,mysql,powerbi,streamlit" />
+</p>
+
+<p align="center">
+🧩 <b>IDEs & Environments:</b> VS Code, Google Colab  
+⚙️ <b>Version Control:</b>  GitHub  
+🗄️ <b>Databases:</b> MySQL 
+📊 <b>Visualization & BI:</b> Power BI  
+🚀 <b>Deployment:</b> Streamlit
 </p>
 
 #### 🏷️ Key Competencies
