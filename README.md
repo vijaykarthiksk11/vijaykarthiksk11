@@ -17,12 +17,29 @@ I enjoy solving complex problems through data-driven insights and developing end
 
 ---
 
-### 🧰 Skills & Tools
+### 🧠 Skills & Tools
 
+#### 🐍 Programming & Scripting
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- **SQL** (Data Querying, Joins, Subqueries, Window Functions)
+- **Git & GitHub** for version control and collaboration
+
+#### 📊 Data Analysis & Visualization
+- **Tableau**, **Power BI** for dashboarding and storytelling  
+- **Matplotlib**, **Seaborn**, **Plotly** for data visualization  
+- Strong understanding of **EDA (Exploratory Data Analysis)**
+
+#### 🤖 Machine Learning & AI
+- **Supervised & Unsupervised Learning**, Model Evaluation, and Optimization  
+- Algorithms: Linear/Logistic Regression, Decision Trees, Random Forest, SVM, K-Means  
+- Experience with **Feature Engineering**, **Hyperparameter Tuning**, and **Model Deployment (Streamlit, Flask)**
+
+#### 🧰 Tools & Platforms
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sklearn,git,github,mysql,pandas,numpy,streamlit,vscode,tableau,powerbi" />
+<img src="https://skillicons.dev/icons?i=python,sklearn,git,github,mysql,tableau,powerbi,streamlit,vscode" />
 </p>
 
+#### 🏷️ Key Competencies
 <p align="center">
 <img src="https://img.shields.io/badge/Data%20Science-4C68D7?style=for-the-badge">
 <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge">
